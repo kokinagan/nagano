@@ -1,6 +1,4 @@
 # Week 1 演習
 
-  - [Hello World Notebook (Colab)](ここにコピーしたColabの共有リンクを貼り付け)
+  - [Hello World Notebook (Colab)](https://colab.research.google.com/drive/1CSPjhRxfn5tkNcQZQBg4JZ49WGIgqirx?usp=sharing)
 
-
-自分のÐりヴぇにさくせいしたのてのりんく
